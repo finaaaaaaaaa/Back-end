@@ -1,4 +1,4 @@
-# DWI NURFIANA - Back End_Unit Test - Challenge 8
+# DWI NURFIANA  - Challenge 8
 
 "Car Back End_Unit Test" was created for academic purpose, called Challenge Chapter 8 in Binar Academy - Fullstack Web Course. The aims of this challenge are to do unit testing with jest and do deployment.
 
