@@ -1,9 +1,7 @@
-# Tazkia - Back End_Unit Test - Challenge 8
+# DWI NURFIANA - Back End_Unit Test - Challenge 8
 
 "Car Back End_Unit Test" was created for academic purpose, called Challenge Chapter 8 in Binar Academy - Fullstack Web Course. The aims of this challenge are to do unit testing with jest and do deployment.
 
-* Link Heroku: http://carmanagement-tazkia.herokuapp.com/
-* Documentation: http://carmanagement-tazkia.herokuapp.com/documentation/
 
 ## Tech Stack
   * Node.js 16.15.0
@@ -45,8 +43,4 @@ Run the following command to start test the server using Jest
 ```bash
   npm test
 ```
-
-## Author
-
-Tazkia Athariza Dhivara
 
