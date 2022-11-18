@@ -23,9 +23,6 @@ Before cloning this repo, you need to install Node.js, NPM, postgreSQL, and also
 
 Clone this repository
 
-```bash
-git clone https://gitlab.com/tazkia.athariza.dhivara-2018/tazkia-back-end_unit-test-challenge-8
-```
 
 Download all the package and it's dependencies
 ```bash
